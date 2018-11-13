@@ -5,6 +5,7 @@
 ## Part 1: Firebase Setup and Authentication
 #### Firebase
 - Set up a new firebase project for your to do application.
+- Add your firebase keys and initialize firebase in your application. REMEMBER: DON'T PUSH UP YOUR API KEYS. (add the file that holds your keys to your .gitignore file)
 - Create the json data for your tasks collection. It should have at least this many fields per task:
 ```json
 {
