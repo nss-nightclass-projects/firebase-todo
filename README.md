@@ -14,6 +14,7 @@
   "isCompleted": false
 }
 ```
+- Save your json data to a file in a `db/` folder in your project, & upload your data to your realtime db in firebase.
 
 #### Authentication
 - Implement Firebase Authentication using Google Auth. 
