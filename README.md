@@ -19,6 +19,7 @@
 #### Authentication
 - Implement Firebase Authentication using Google Auth. 
 - You should be able to log to the console your user's username. If you have a separate google account, you should log in with that google account (or get someone to log into your application with their info during study group).
+  - In order to login as a different user, you will want to use a chrome incognito window. Otherwise, it will use your current google authentication for your computer.
 - Log out should work.
 
 ## Part 2: Basic CRUD
